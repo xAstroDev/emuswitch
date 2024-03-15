@@ -163,7 +163,7 @@
     <string name="about_app_description">Emulator Switch Open-Source</string>
     <string name="contributors">Kontributor</string>
     <string name="contributors_description">Dibuat dengan \u2764 dari tim yuzu</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">Proyek yang memungkinkan yuzu untuk Android</string>
     <string name="build">Versi</string>
     <string name="user_data">Data pengguna</string>

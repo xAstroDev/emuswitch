@@ -167,7 +167,7 @@
     <string name="about_app_description">Un emulador de Switch de código abierto</string>
     <string name="contributors">Contribuidores</string>
     <string name="contributors_description">Hecho con \u2764 del equipo yuzu</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">Proyectos que hacen que yuzu para Android sea una realidad</string>
     <string name="build">Versión</string>
     <string name="user_data">Datos de usuario</string>

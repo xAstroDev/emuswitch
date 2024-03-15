@@ -86,7 +86,7 @@
     <string name="about_app_description">Open-source Switch emulátor</string>
     <string name="contributors">Přispěvatelé</string>
     <string name="contributors_description">Vyrobeno s \u2764 od yuzu týmu</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="build">Číslo sestavení</string>
     <string name="user_data">Uživatelská data</string>
     <string name="exporting_user_data">Exportování uživatelských dat...</string>

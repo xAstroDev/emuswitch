@@ -25,13 +25,13 @@ SPDX-License-Identifier: CC0-1.0
     <keyword>emulator</keyword>
   </keywords>
   <url type="homepage">https://yuzu-emu.org/</url>
-  <url type="bugtracker">https://github.com/yuzu-emu/yuzu/issues</url>
+  <url type="bugtracker">https://github.com/xAstroDev/emuswitch/issues</url>
   <url type="faq">https://yuzu-emu.org/wiki/faq/</url>
   <url type="help">https://yuzu-emu.org/wiki/home/</url>
   <url type="donation">https://yuzu-emu.org/donate/</url>
   <url type="translate">https://www.transifex.com/projects/p/yuzu</url>
   <url type="contact">https://community.citra-emu.org/</url>
-  <url type="vcs-browser">https://github.com/yuzu-emu/yuzu</url>
+  <url type="vcs-browser">https://github.com/xAstroDev/emuswitch</url>
   <url type="contribute">https://yuzu-emu.org/wiki/contributing/</url>
   <launchable type="desktop-id">org.yuzu_emu.yuzu.desktop</launchable>
   <provides>
@@ -53,10 +53,10 @@ SPDX-License-Identifier: CC0-1.0
   <developer_name>yuzu Emulator Team</developer_name>
   <content_rating type="oars-1.0"/>
   <screenshots>
-    <screenshot type="default"><image>https://raw.githubusercontent.com/yuzu-emu/yuzu-emu.github.io/master/images/screenshots/001-Super%20Mario%20Odyssey%20.png</image></screenshot>
-    <screenshot><image>https://raw.githubusercontent.com/yuzu-emu/yuzu-emu.github.io/master/images/screenshots/004-The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD.png</image></screenshot>
-    <screenshot><image>https://raw.githubusercontent.com/yuzu-emu/yuzu-emu.github.io/master/images/screenshots/007-Pokemon%20Sword.png</image></screenshot>
-    <screenshot><image>https://raw.githubusercontent.com/yuzu-emu/yuzu-emu.github.io/master/images/screenshots/010-Hyrule%20Warriors%20Age%20of%20Calamity.png</image></screenshot>
-    <screenshot><image>https://raw.githubusercontent.com/yuzu-emu/yuzu-emu.github.io/master/images/screenshots/039-Pok%C3%A9mon%20Mystery%20Dungeon%20Rescue%20Team%20DX.png.png.png</image></screenshot>
+    <screenshot type="default"><image>https://raw.githubusercontent.com/xAstroDev/emuswitch-emu.github.io/master/images/screenshots/001-Super%20Mario%20Odyssey%20.png</image></screenshot>
+    <screenshot><image>https://raw.githubusercontent.com/xAstroDev/emuswitch-emu.github.io/master/images/screenshots/004-The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD.png</image></screenshot>
+    <screenshot><image>https://raw.githubusercontent.com/xAstroDev/emuswitch-emu.github.io/master/images/screenshots/007-Pokemon%20Sword.png</image></screenshot>
+    <screenshot><image>https://raw.githubusercontent.com/xAstroDev/emuswitch-emu.github.io/master/images/screenshots/010-Hyrule%20Warriors%20Age%20of%20Calamity.png</image></screenshot>
+    <screenshot><image>https://raw.githubusercontent.com/xAstroDev/emuswitch-emu.github.io/master/images/screenshots/039-Pok%C3%A9mon%20Mystery%20Dungeon%20Rescue%20Team%20DX.png.png.png</image></screenshot>
   </screenshots>
 </component>

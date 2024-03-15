@@ -165,7 +165,7 @@
     <string name="about_app_description">یک شبیه‌ساز سوئیچ منبع باز</string>
     <string name="contributors">مشارکت کنندگان</string>
     <string name="contributors_description">Made with \u2764 from the yuzu team</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">پروژه‌هایی که yuzu را برای اندروید ممکن می‌سازند</string>
     <string name="build">ساخت</string>
     <string name="user_data">داده کاربر</string>

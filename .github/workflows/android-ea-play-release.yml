@@ -14,7 +14,7 @@ on:
 jobs:
   android:
     runs-on: ubuntu-latest
-    if: ${{ github.repository == 'yuzu-emu/yuzu' }}
+    if: ${{ github.repository == 'xAstroDev/emuswitch' }}
     steps:
       - uses: actions/checkout@v3
         name: Checkout

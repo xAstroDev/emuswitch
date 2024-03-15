@@ -11,7 +11,7 @@ BUILD_FLAVOR="mainline"
 
 BUILD_TYPE_LOWER="release"
 BUILD_TYPE_UPPER="Release"
-if [ "${GITHUB_REPOSITORY}" == "yuzu-emu/yuzu" ]; then
+if [ "${GITHUB_REPOSITORY}" == "xAstroDev/emuswitch" ]; then
     BUILD_TYPE_LOWER="relWithDebInfo"
     BUILD_TYPE_UPPER="RelWithDebInfo"
 fi

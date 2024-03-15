@@ -152,7 +152,7 @@
     <string name="about_app_description">אמולטור Switch עם קוד פתוח</string>
     <string name="contributors">תורמים</string>
     <string name="contributors_description">נוצר עם \u2764 מקבוצת yuzu</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">פרוייקטים שהופכים את yuzu ל Android אפשרי</string>
     <string name="build">גרסה</string>
     <string name="user_data">נתוני משתמש</string>

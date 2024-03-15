@@ -163,7 +163,7 @@
     <string name="about_app_description">오픈 소스 Switch 에뮬레이터</string>
     <string name="contributors">기여자</string>
     <string name="contributors_description">yuzu 팀의 \u2764로 제작</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">Android용 yuzu를 가능하게 하는 프로젝트</string>
     <string name="build">빌드</string>
     <string name="user_data">유저 데이터</string>

@@ -163,7 +163,7 @@
     <string name="about_app_description">一款开放源代码的 Switch 模拟器</string>
     <string name="contributors">贡献者</string>
     <string name="contributors_description">yuzu 团队的用 \u2764 制作</string>
-    <string name="contributors_link">https://github.com/yuzu-emu/yuzu/graphs/contributors</string>
+    <string name="contributors_link">https://github.com/xAstroDev/emuswitch/graphs/contributors</string>
     <string name="licenses_description">Android 版 yuzu 离不开这些项目的支持</string>
     <string name="build">构建版本</string>
     <string name="user_data">用户数据</string>
