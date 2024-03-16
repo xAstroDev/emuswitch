@@ -25,8 +25,8 @@ async function checkBaseChanges(github) {
         }
     }`;
     const variables = {
-        owner: 'yuzu-emu',
-        name: 'yuzu',
+        owner: 'xAstroDev',
+        name: 'emuswitch',
         ref: 'refs/heads/master',
     };
     const result = await github.graphql(query, variables);
@@ -251,16 +251,16 @@ async function getPulls(github) {
         }
     }`;
     const mainlineVariables = {
-        owner: 'yuzu-emu',
-        name: 'yuzu',
+        owner: 'xAstroDev',
+        name: 'emuswitch',
         label: CHANGE_LABEL_MAINLINE,
     };
     const mainlineResult = await github.graphql(query, mainlineVariables);
     const pulls = mainlineResult.repository.pullRequests.nodes;
     if (BUILD_EA) {
         const eaVariables = {
-            owner: 'yuzu-emu',
-            name: 'yuzu',
+            owner: 'xAstroDev',
+            name: 'emuswitch',
             label: CHANGE_LABEL_EA,
         };
         const eaResult = await github.graphql(query, eaVariables);
@@ -304,10 +304,10 @@ async function mergebot(github, context, execa) {
     const mergeResults = await mergePullRequests(pulls, execa);
 
     if (BUILD_EA) {
-        await tagAndPushEA(github, 'yuzu-emu', `yuzu-android`, execa);
+        await tagAndPushEA(github, 'xAstroDev', `emuswitch-android`, execa);
     } else {
         await generateReadme(pulls, context, mergeResults, execa);
-        await tagAndPush(github, 'yuzu-emu', `yuzu-android`, execa, true);
+        await tagAndPush(github, 'xAstroDev', `emuswitch-android`, execa, true);
     }
 }
 

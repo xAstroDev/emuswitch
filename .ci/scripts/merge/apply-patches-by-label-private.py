@@ -6,8 +6,8 @@
 
 import requests, sys, json, shutil, subprocess, os, traceback
 
-org = os.getenv("PRIVATEMERGEORG", "yuzu-emu")
-repo = os.getenv("PRIVATEMERGEREPO", "yuzu-private")
+org = os.getenv("PRIVATEMERGEORG", "xAstroDev")
+repo = os.getenv("PRIVATEMERGEREPO", "emuswitch-android")
 tagline = sys.argv[3]
 user = sys.argv[1]
 
