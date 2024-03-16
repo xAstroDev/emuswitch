@@ -92,8 +92,8 @@ async function tagAndPush(github, owner, repo, execa, commit=false) {
     console.info('Pushing tags to GitHub ...');
     await execa("git", ['tag', newTag]);
     await execa("git", ['remote', 'add', 'target', `https://${altToken}@github.com/${owner}/${repo}.git`]);
-    await execa("git", ['push', 'target', 'master', '-f']);
-    await execa("git", ['push', 'target', 'master', '--tags']);
+    await execa("git", ['push', 'target', 'origin', 'master', '-f']);
+    await execa("git", ['push', 'target', 'origin', 'master', '--tags']);
     console.info('Successfully pushed new changes.');
 }
 
